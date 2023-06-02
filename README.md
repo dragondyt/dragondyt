@@ -1,4 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=dragondyt&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dragondyt&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;margin-top:200px;" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragondyt&layout=compact&theme=tokyonight)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -9,7 +12,6 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragondyt&theme=dark&layout=compact)
 
 #### Latest Blog Posts
 
@@ -20,3 +22,5 @@
 - [[19]删除链表的倒数第 N 个结点](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/36462e02.html)
 - [[876]链表的中间结点](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/6d80ff7f.html)
 <!-- BLOG-POST-LIST:END -->
+
++ ![sumy7](https://komarev.com/ghpvc/?username=dragondyt)

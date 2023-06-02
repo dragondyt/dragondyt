@@ -1,6 +1,12 @@
 name: Blog Posts
 
 on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: '手动触发'
+        required: true
+        default: '文章列表'
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour

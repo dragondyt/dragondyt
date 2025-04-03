@@ -16,11 +16,11 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[2073]买票需要的时间](https://blog.dragondyt.top/8612fa7f/b7e144d1/340249a9/76a66db0.html)
-- [[160]相交链表](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/389d18c2.html)
-- [[141]环形链表](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/69a9925d.html)
-- [[19]删除链表的倒数第 N 个结点](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/36462e02.html)
-- [[876]链表的中间结点](https://blog.dragondyt.top/8612fa7f/b7e144d1/2362a8ea/6d80ff7f.html)
+- [[160]相交链表](https://blog.543424.xyz/computer-science/algorithm/linked-list/160%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/)
+- [[2073]买票需要的时间](https://blog.543424.xyz/computer-science/algorithm/array/2073%E4%B9%B0%E7%A5%A8%E9%9C%80%E8%A6%81%E7%9A%84%E6%97%B6%E9%97%B4/)
+- [[剑指 Offer II 022]链表中环的入口节点](https://blog.543424.xyz/computer-science/algorithm/linked-list/%E5%89%91%E6%8C%87-offer-ii-022%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9/)
+- [[141]环形链表](https://blog.543424.xyz/computer-science/algorithm/linked-list/141%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8/)
+- [[876]链表的中间结点](https://blog.543424.xyz/computer-science/algorithm/linked-list/876%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9/)
 <!-- BLOG-POST-LIST:END -->
 
 + ![sumy7](https://komarev.com/ghpvc/?username=dragondyt)
